@@ -1,22 +1,36 @@
-<h2> Unit details</h2>
-<table style="width:100%">
-<tr>
-<td>Year: </td>
-<td>2023 unit information</td>
-</tr>
-<tr>
-<td>Enrolment modes:</td>
-<td>Trimester 1: Burwood (Melbourne), Geelong, Cloud (online)</td>
-</tr>
-<tr>
-<td>Credit point(s):</td>
-<td>1</td>
-</tr>
-<tr>
-<td> Unit Chair:</td>
-<td> Trimester 1: Azadeh Ghari Neiat</td>
-</tr>
-</table>
-</body>
-</html>
-Front-End Developer Tasks
+
+
+ 
+h1 {
+    font-size: 40px;
+    font-family: Arial
+  }
+  h2 {
+    font-size: 25px;
+    font-family: Arial
+  }
+  h3 {
+    font-family: Arial
+  }
+  p {
+    font-size: 14px;
+    font-family: Arial
+  }
+
+
+  div {
+    background-color: darkcyan;
+    text-align: right;
+   }
+   
+   
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    font-family: Arial
+  }
+   
+  tr:nth-child(odd) {background-color: #f2f2f2;}
+   
+   
